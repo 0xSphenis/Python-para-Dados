@@ -1,0 +1,2 @@
+Cliente: Ana Costa | Transações: [250.0, -100.0, 320.0]
+Cliente: Bruno Lima | Transações: [-50.0, 400.0, -10.0]

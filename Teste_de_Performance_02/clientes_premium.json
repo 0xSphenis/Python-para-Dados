@@ -1,0 +1,14 @@
+{
+    "Ana Costa": {
+        "cidade": "RJ",
+        "saldo": 1250.75
+    },
+    "Carlos Eduardo": {
+        "cidade": "MG",
+        "saldo": 2500.5
+    },
+    "Fernanda Silva": {
+        "cidade": "SP",
+        "saldo": 3200.0
+    }
+}

@@ -1,0 +1,5 @@
+id,cliente,valor,tipo
+1,Ana Costa,250,credito
+2,Ana Costa,-100,debito
+3,Bruno Lima,400,credito
+4,Bruno Lima,-10,debito
